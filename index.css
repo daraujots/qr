@@ -1,0 +1,11 @@
+
+/* Estilos globales base */
+:root {
+  --bg-color: #f2e9dc;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+}
